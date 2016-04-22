@@ -1,0 +1,4 @@
+Sitemap: https://jafd.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: jafd.github.io
