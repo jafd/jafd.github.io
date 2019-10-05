@@ -10,30 +10,26 @@
   <url>
     <loc>https://jafd.github.io/</loc>
     <lastmod>2019-09-09T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jafd.github.io/posts/</loc>
-    <lastmod>2019-09-09T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jafd.github.io/tags/</loc>
-    <lastmod>2019-09-09T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jafd.github.io/posts/2019/09/this-site-doesnt-use-cookies/</loc>
     <lastmod>2019-09-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jafd.github.io/tags/silliness/</loc>
     <lastmod>2019-09-09T00:00:00+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jafd.github.io/tags/</loc>
+    <lastmod>2019-09-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jafd.github.io/posts/2019/09/this-site-doesnt-use-cookies/</loc>
+    <lastmod>2019-09-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -43,7 +39,6 @@
   
   <url>
     <loc>https://jafd.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
